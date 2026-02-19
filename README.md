@@ -1,7 +1,7 @@
 # Hello there, I'm Vitalii Moshkivskii! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### About Me
-I'm a passionate full-stack JavaScript developer with four years of experience building dynamic, scalable applications from concept to deployment. My journey spans diverse domains—marketplaces, freelance platforms, admin panels, and interactive landing pages—where I've delivered engaging, animation-rich user experiences. While specializing in front-end development, I've evolved into full-stack capabilities with modern backend technologies and cloud infrastructure.
+I'm a passionate full-stack JavaScript developer with five years of experience building dynamic, scalable applications from concept to deployment. My journey spans diverse domains—marketplaces, freelance platforms, admin panels, and interactive landing pages—where I've delivered engaging, animation-rich user experiences. While specializing in front-end development, I've evolved into full-stack capabilities with modern backend technologies and cloud infrastructure.
 
 ### Tech Stack
 
